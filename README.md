@@ -1,7 +1,8 @@
 Olá! Eu sou o Welington, obrigado pela visita!
 
-- 🔭 Atualmente estou trabalhando na Alterdata Software
+- 🔭 Atualmente estou trabalhando na Alterdata Software como QA em testes WEB.
 - 🌱 Estou estudando automação de teste, já automatizo mais ainda estou em desenvolvimento
+- 🌱 Cursando Pós-graduação em Web Full Stack.
 
 <div align="">
   <a href="https://github.com/GasparWelington">
